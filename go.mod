@@ -1,3 +1,3 @@
-module github.com/Ibnnu-fwd/go-say-hello/v2
+module github.com/Ibnnu-fwd/go-say-hello/v3
 
-go 1.21.4
+go 1.21.5
